@@ -1,0 +1,18 @@
+{
+  "name": "api-interactive-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "core-js": "^0.9.6",
+    "object-assign": "4.0.1",
+    "qs": "^5.2.0",
+    "express": "^4.13.3"
+  },
+  "scripts": {
+    "start": "supervisor server.js"
+  },
+  "author": "Konstantin Astapov",
+  "license": "ISC"
+}
